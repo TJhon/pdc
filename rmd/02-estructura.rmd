@@ -1,0 +1,6 @@
+<!--
+Modelo deseado del territorio
+Matriz de objetivos y acciones estrategicas. Indicadores y Metas
+Ruta estrategica
+Matriz de actores responsables
+-->
