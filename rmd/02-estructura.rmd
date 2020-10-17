@@ -1,6 +1,28 @@
-<!--
+<!-- lo que esta dentro son variables y cosas para la guia
 Modelo deseado del territorio
 Matriz de objetivos y acciones estrategicas. Indicadores y Metas
 Ruta estrategica
 Matriz de actores responsables
 -->
+
+# MODELO DESEADO DEL TERRITORIO
+
+<!-- componentes sobre el desarrolo del territorio
+-->
+
+# MATRIZ DE OBJETIVOS Y ACCIONES ESTRATÉGIVAS, INDICADORES Y METAS
+
+<!--
+objetivos estrategicos, nombre del indicador Linea base - Logros eperados en el territorio del plan, fuente
+-->
+
+# RUTA ESTRATEGICA
+
+<!--
+Horizonte temporal con objetivos territoriales
+-->
+
+
+# MATRIZ DE ACTORES RESPONSABLES
+
+<!-- Objetivos estrategicos territoriales, acciones estrategicas territoriales-->

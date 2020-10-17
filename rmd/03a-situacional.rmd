@@ -4,31 +4,144 @@
 
 ### Ubicacion, aspectos geograficos relevantes y organizacion
 
-a. Ubicacion Politica:
+a. Ubicación Política:
 
 b. Institucional:
 
-c. Ubicacion Geografica:
+c. Ubicación Geográfica:
 
-d. Creacion Politica:
+El distrito de El Tambo, se encuetra ubicado en *donde*,
 
-e. Superficie territorial
+d. Creación Política:
 
-f. Organizacion politico administrativa:
+e. Superficie territorial:
+
+<!-- mapa de huacrapuquio dentro del peru - huancayo-->
+
+f. Organización politico administrativa:
 
 ### Caracterizacion del sistema fisico ambiental
+
+<!-- datos de zonificacion usar https://www.distrito.pe/distrito-huacrapuquio.html-->
 
 a. Extension y altitudes
 
 b. Limites
 
+<!--al final mostrar huacrapuquio en huancayo mapa (con porcentaje de crecimiento urbano del pdc de el tambo)-->
+
 ### Diagnostico del territorio
+
+<!-- semaforo de gestion verde buen indicador amarillo rojo para la necesidad de atencion-->
 
 #### Caracterizacion del pleno ejercicio de los derechos fundamentales y dignidad de las personas
 
+<!--datos calidad de vida pero usaron un radar en vez de proporciones, 
+
+Pobreza
+Poblacion
+  Poblacion total, poblacion urbana y rural (censos y proyectados)
+  los datos anteriores en una serie temporal
+  distribucion de poblacion entre hombres y mujeres
+
+violencia familiar y gneero (evaluar)
+-->
+
 #### Caracterizacion de la oportunidad y acceso a los servicios basico de calidad
 
+<!-- tablas con colores de acuerdo a condiciones de acuerdo al valor 
+
+educacion, calidad educativa, asistencia escolar eduacion superior(encuesta)
+agua, cobertura de agua, consumo de gaua per capita litrso poersona dia, continuidad de servicio de agua, claidad del agua agua no contabilidzada, cantidad remanente de anios de balance hidrico positivo
+sanemamiento y drenaje: porcentaje de hogares con conexcionconexion domiciliaria al sistema de alcantarillado, aguas residuales tratadas a normas nacionales,, po
+  viviendas afectadas por inunaciones en los 10 anios
+Energia:
+  hogares a conexcion a energia electrica
+  conexcion a gas natural
+  cantidad de interrupciones por cliente
+  duracion promedio de la interruppcion electrica
+  consumo anual residencial de electricidad
+  intensidad energetica d ela economia (kilogramo equivalente en petroleo con la media de alc)
+  existencia, monitorieo y cumplimeinto de las normas
+  energia renovable sobre total de genereacion electrica (base de datos)
+  -->
+
 #### Caracterizacion de Gestion municipal efectiva y eficiente:
+
+<!--
+SEgurirada ciudaddana
+  violencia 
+  seguros, tasa de victimacion
+GEstion participativa
+  eficienci en planificacion participava
+  existencia de un presupeusto participatico
+  sesiones publicas de rendicion de cuentas por anio (datos no disponibles)
+Gestion moderna
+  presupuesto plrui anual
+  remunracin al sistema de desemplno
+  Existencia de sistemas electronicos para el seguimiento de la gestion de la municipalidad
+  existencia de sistemas de adquision electronicos
+Transparencia
+  transparencia
+  portal transparencia
+  porcentaje de cuentas de empresas municipales auditadas
+impuestos y autonoia financiera
+  ingresos propios como porcentaje de los ingresos publicos
+  transferencias totales
+  " " para fines publicos 
+  ingresos de otras fuentes (donantes)
+  recuperacion del costo de prestacion de servicios
+  impuestos recaudados como porcentaje de los impuestos facturados
+Deuda
+  servicio de la deuda
+  crecimiento de la deuda
+-->
+
+#### Caracterizacion del desarrollo economico y la competitividad economica local
+
+<!-- 
+competitivad de la economia
+  licencia de negocio
+Tejido productivo
+  Pib percapita de la ciudad
+  tasa de crecimiento del pib per capita
+Mercado laboral
+  desempleo
+  empleo informal
+Capital humano
+  nivel de estudios universitarios
+  capacitacion profesional
+tejido empresarial
+  incremento de empresas
+  certificacion de calidad
+  coectividad
+    conexxcion a banda ancha
+    movil
+    celulares
+
+-->
+
+#### Caracterizacion del desarrollo local integral sostenible con infraestructura adecuada
+
+<!-- 
+uso del suelo
+  densidad
+  vivienda
+  areas verdes y recreacion
+  planificacion del uso del suelo
+Desigualdad urbana
+  porcenaje de viviendas ubicadas en acentamiento informales
+  coeficiente de gini
+  Ingresos de laspersonas
+Movilidad y trasnporte
+  infraestructura de trasnporte balanceado
+  trasnporte seguro - victimas mortales por accidntes de transito
+  congestion reducida
+  transporte planificado indicesistema de planificacion y administracion de trasnporte
+  transporte economico - indice de asequibilidad
+  demanda equilibrada - ration empleo vivienda
+  -->
+  
 
 
 # Prioridades del territorio
